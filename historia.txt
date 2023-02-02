@@ -5,3 +5,5 @@ archivo de prueba
 para la clase de git y github.
 
 soy colombiano y naci en ituango.
+
+tengo 31 años y quiero ser un programador, para ello estudio fuerte.
